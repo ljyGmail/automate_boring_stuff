@@ -38,3 +38,7 @@ if (len(notepad) > 0):
         pyautogui.write(['\t', ' '])  # 두번째 체크박스 체크
         time.sleep(0.2)
         pyautogui.write(['\t', 'enter'])  # Submit버튼 클릭
+    else:
+        pyautogui.alert('크롬 브라우저를 여세요.')
+else:
+    pyautogui.alert('notepad++프로그램을 열어두세요.')
