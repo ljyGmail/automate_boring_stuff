@@ -101,9 +101,9 @@ else:
 print(f'Path.cwd(): {Path.cwd()}')
 print(f'Path.cwd().parents[0]: {Path.cwd().parents[0]}')
 print(f'Path.cwd().parents[1]: {Path.cwd().parents[1]}')
-print(f'Path.cwd().parents[2]: {Path.cwd().parents[2]}')
-print(f'Path.cwd().parents[3]: {Path.cwd().parents[3]}')
-print(f'Path.cwd().parents[4]: {Path.cwd().parents[4]}')
+# print(f'Path.cwd().parents[2]: {Path.cwd().parents[2]}')
+# print(f'Path.cwd().parents[3]: {Path.cwd().parents[3]}')
+# print(f'Path.cwd().parents[4]: {Path.cwd().parents[4]}')
 
 # The older os.path module also has similar functions for getting the different parts of a path written in a string value.
 if CURRENT_OS == 'win32':
@@ -125,3 +125,44 @@ print(f'calcFilePath.split(os.sep): {calcFilePath.split(os.sep)}')
 # Finding File Sizes and Folder Contents
 print(
     f"os.path.getsize('data/checkbox.png'): {os.path.getsize('data/checkbox.png')}")
+
+print(f"os.listdir('.'): {os.listdir('.')}")
+
+totalSize = 0
+for filename in os.listdir('.'):
+    totalSize += os.path.getsize(Path(os.path.abspath('.'), filename))
+
+print(f'totalSize: {totalSize}')
+
+# Modifying a List of Files Using Glob Patterns
+p = Path(os.path.abspath('.'))
+print(f"p.glob('*'): {p.glob('*')}")
+# Make a list from the generator.
+print(f"list(p.glob('*')): {list(p.glob('*'))}")
+
+# Make a list from the generator.
+print(f"list(p.glob('*.png')): {list(p.glob('*.png'))}")
+
+print(f"list(p.glob('*.?x?')): {list(p.glob('*.?x?'))}")
+
+p = Path(os.path.abspath('.'))
+for textFilePathObj in p.glob('*.txt'):
+    print(textFilePathObj)  # Prints the Path Object as a string
+    # Do something with the text file
+
+# Checking Path Validity
+dataDir = Path('data')
+notExistsDir = Path('does/not/exist')
+imgFile = Path('horizontal_flip.png')
+
+print(f'dataDir.exists(): {dataDir.exists()}')
+print(f'dataDir.is_dir(): {dataDir.is_dir()}')
+print(f'notExistsDir.exists(): {notExistsDir.exists()}')
+print(f'imgFile.exists(): {imgFile.exists()}')
+print(f'imgFile.is_file(): {imgFile.is_file()}')
+print(f'imgFile.is_dir(): {imgFile.is_dir()}')
+
+# os.path module can accomplish the same tasks using the following methods
+print(f"os.path.exists('data'): {os.path.exists('data')}")
+print(f"os.path.isfile('data'): {os.path.isfile('data')}")
+print(f"os.path.isdir('data'): {os.path.isdir('data')}")
