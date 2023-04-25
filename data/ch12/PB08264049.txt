@@ -1,0 +1,36 @@
+1. Bousquet J, Khaltaev N, Cruz AA, Denburg J, Fokkens WJ, Togias A, et al. Allergic Rhinitis and its Impact on Asthma (ARIA) 2008 update (in collaboration with the World Health Organization, GA(2)LEN and AllerGen). Allergy 2008;63 Suppl 86:8–160.
+2. Bousquet J, Schünemann HJ, Zuberbier T, Bachert C, Baena-Cagnani CE, Bousquet PJ, et al. Development and implementation of guidelines in allergic rhinitis – an ARIA-GA2LEN paper. Allergy 2010;65:1212–1221.
+3. Bousquet J, Heinzerling L, Bachert C, Papadopoulos NG, Bousquet PJ, Burney PG, et al. Practical guide to skin prick tests in allergy to aeroallergens. Allergy 2012;67:18–24.
+4. Brożek JL, Bousquet J, Agache I, Agarwal A, Bachert C, Bosnic-Anticevich S, et al. Allergic Rhinitis and its Impact on Asthma (ARIA) guidelines-2016 revision. J Allergy Clin Immunol 2017;140:950–958.
+5. Katelaris CH, Lee BW, Potter PC, Maspero JF, Cingi C, Lopatin A, et al. Prevalence and diversity of allergic rhinitis in regions of the world beyond Europe and North America. Clin Exp Allergy 2012;42:186–207.
+6. Hong SJ, Ahn KM, Lee SY, Kim KE. The prevalences of asthma and allergic diseases in Korean children. Korean J Pediatr 2008;51:343–350.
+7. Kim WK, Kwon JW, Seo JH, Kim HY, Yu J, Kim BJ, et al. Interaction between IL13 genotype and environmental factors in the risk for allergic rhinitis in Korean children. J Allergy Clin Immunol 2012;130:421–426.e5.
+8. Lee Y, Choi J, Park MR, Kim J, Kim WK, Park YM, et al. Analysis of regional prevalence of allergic diseases in Korean school children. Allergy Asthma Respir Dis 2015;3:62–69.
+9. Bahk J, Yun SC, Kim YM, Khang YH. Impact of unintended pregnancy on maternal mental health: a causal analysis using follow up data of the Panel Study on Korean Children (PSKC). BMC Pregnancy Childbirth 2015;15:85.
+10. Jung S, Suh DI, Lee SY, Yoon J, Cho HJ, Kim YH, et al. Prevalence, risk factors and cutoff values for bronchial hyperresponsiveness to provocholine in 7-year-old children. Allergy Asthma Immunol Res 2018;10:466–477.
+11. Pepys J. Skin tests for immediate, type I, allergic reactions. Proc R Soc Med 1972;65:271–272.
+12. Crapo RO, Casaburi R, Coates AL, Enright PL, Hankinson JL, Irvin CG, et al. Guidelines for methacholine and exercise challenge testing-1999. This official statement of the American Thoracic Society was adopted by the ATS Board of Directors, July 1999. Am J Respir Crit Care Med 2000;161:309–329.
+13. Worldwide variation in prevalence of symptoms of asthma, allergic rhinoconjunctivitis, and atopic eczema: ISAAC. The International Study of Asthma and Allergies in Childhood (ISAAC) Steering Committee. Lancet 1998;351:1225–1232.
+14. Lee SY, Kwon JW, Seo JH, Song YH, Kim BJ, Yu J, et al. Prevalence of atopy and allergic diseases in Korean children: associations with a farming environment and rural lifestyle. Int Arch Allergy Immunol 2012;158:168–174.
+15. van Beijsterveldt CE, Boomsma DI. Genetics of parentally reported asthma, eczema and rhinitis in 5-yr-old twins. Eur Respir J 2007;29:516–521.
+16. Illi S, Weber J, Zutavern A, Genuneit J, Schierl R, Strunz-Lehner C, et al. Perinatal influences on the development of asthma and atopy in childhood. Ann Allergy Asthma Immunol 2014;112:132–139.e1.
+17. Thomson JA, Widjaja C, Darmaputra AA, Lowe A, Matheson MC, Bennett CM, et al. Early childhood infections and immunisation and the development of allergic disease in particular asthma in a high-risk cohort: a prospective study of allergy-prone children from birth to six years. Pediatr Allergy Immunol 2010;21:1076–1085.
+18. Nwaru BI, Takkinen HM, Kaila M, Erkkola M, Ahonen S, Pekkanen J, et al. Food diversity in infancy and the risk of childhood asthma and allergies. J Allergy Clin Immunol 2014;133:1084–1091.
+19. Magnusson J, Kull I, Rosenlund H, Håkansson N, Wolk A, Melén E, et al. Fish consumption in infancy and development of allergic disease up to age 12 y. Am J Clin Nutr 2013;97:1324–1330.
+20. Strachan DP, Aït-Khaled N, Foliaki S, Mallol J, Odhiambo J, Pearce N, et al. Siblings, asthma, rhinoconjunctivitis and eczema: a worldwide perspective from the International Study of Asthma and Allergies in Childhood. Clin Exp Allergy 2015;45:126–136.
+21. Strachan DP. Family size, infection and atopy: the first decade of the “hygiene hypothesis”. Thorax 2000;55 Suppl 1:S2–S10.
+22. Park YB, Mo EK, Lee JY, Kim JH, Kim CH, Hyun IG, et al. Association between pet ownership and the sensitization to pet allergens in adults with various allergic diseases. Allergy Asthma Immunol Res 2013;5:295–300.
+23. Kozyrskyj AL, Mai XM, McGrath P, Hayglass KT, Becker AB, Macneil B. Continued exposure to maternal distress in early life is associated with an increased risk of childhood asthma. Am J Respir Crit Care Med 2008;177:142–147.
+24. Chung YJ, Cho IK, Lee KI, Bae SH, Lee JW, Chung PS, et al. Seasonal specificity of seasonal allergens and validation of the ARIA classification in Korea. Allergy Asthma Immunol Res 2013;5:75–80.
+25. Antonicelli L, Micucci C, Voltolini S, Feliziani V, Senna GE, Di Blasi P, et al. Allergic rhinitis and asthma comorbidity: ARIA classification of rhinitis does not correlate with the prevalence of asthma. Clin Exp Allergy 2007;37:954–960.
+26. Bousquet J, Annesi-Maesano I, Carat F, Léger D, Rugina M, Pribil C, et al. Characteristics of intermittent and persistent allergic rhinitis: DREAMS study group. Clin Exp Allergy 2005;35:728–732.
+27. Pereira AM, Morais-Almeida M, Santos N, Nunes C, Bousquet J, Fonseca JA. Severity of rhinitis and wheezing is strongly associated in preschoolers: a population-based study. Pediatr Allergy Immunol 2015;26:618–627.
+28. Di Cara G, Carelli A, Latini A, Panfili E, Bizzarri I, Ciprandi G, et al. Severity of allergic rhinitis and asthma development in children. World Allergy Organ J 2015;8:13.
+29. Cuttitta G, Cibella F, La Grutta S, Hopps MR, Bucchieri S, Passalacqua G, et al. Non-specific bronchial hyper-responsiveness in children with allergic rhinitis: relationship with the atopic status. Pediatr Allergy Immunol 2003;14:458–463.
+30. Shaaban R, Zureik M, Soussan D, Antó JM, Heinrich J, Janson C, et al. Allergic rhinitis and onset of bronchial hyperresponsiveness: a population-based study. Am J Respir Crit Care Med 2007;176:659–666.
+31. Ciprandi G, Cirillo I, Klersy C. Lower airways may also be affected in asymptomatic patients with recent onset of allergic rhinitis. Laryngoscope 2010;120:1288–1291.
+32. Olivieri M, Mohaddes Zadeh MR, Talamini G, Lampronti G, Lo Cascio V. Local nasal immunotherapy and bronchial hyperreactivity in seasonal allergic rhinitis: an observational pilot study. J Investig Allergol Clin Immunol 2000;10:300–304.
+33. Corren J. The impact of allergic rhinitis on bronchial asthma. J Allergy Clin Immunol 1998;101:S352–6.
+34. Bousquet J, Van Cauwenberge P, Khaltaev N. Aria Workshop Group; World Health Organization. Allergic rhinitis and its impact on asthma. J Allergy Clin Immunol 2001;108:S147–334.
+35. Kim SW, Han DH, Lee SJ, Lee CH, Rhee CS. Bronchial hyperresponsiveness in pediatric rhinitis patients: the difference between allergic and nonallergic rhinitis. Am J Rhinol Allergy 2013;27:e63–8.
+36. Choi SH, Yoo Y, Yu J, Rhee CS, Min YG, Koh YY. Bronchial hyperresponsiveness in young children with allergic rhinitis and its risk factors. Allergy 2007;62:1051–1056.

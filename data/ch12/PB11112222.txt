@@ -1,0 +1,3 @@
+1. Centers for Disease Control and Prevention (CDC). CoronavirusDisease 2019 (COVID-19) [Internet]. Atlanta: CDC; 2021 [citedApr 28, 2022]. Available from: https://www.cdc.gov/dotw/covid-19/index.html.
+2. World Health Organization (WHO). WHO Coronavirus(COVID-19) Dashboard [Internet]. Geneva: WHO; 2022 [citedApr 1, 2022]. Available from: https://covid19.who.int/.
+3. Heyming TW, Nugent D, Tongol A, Knudsen-Robbins C,Hoang J, Schomberg J, et al. Rapid antibody testing forSARS-CoV-2 vaccine response in pediatric healthcare workers.Int J Infect Dis 2021;113:1-6.
